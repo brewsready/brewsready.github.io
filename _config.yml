@@ -1,15 +1,15 @@
 # Site settings
-title: The BrewReady Blog
+title: The BrewsReady Blog
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  BrewReady is a company dedicated to the home brewing community.  
+  BrewsReady is a company dedicated to the home brewing community.  
   We provide online tools to help brewers keep track of their brewing 
   recipes and ingredients, let them discover new brews, and help them plan 
-  their next brewing adventure.  BrewReady is currently in its early alpha stage.
+  their next brewing adventure.  BrewsReady is currently in its early alpha stage.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://brewready.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  brewready
+github_username:  brewsready
 
 # Build settings
 markdown: kramdown
