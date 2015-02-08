@@ -1,3 +1,6 @@
+# $:.unshift File.dirname(__FILE__)
+# Dir.glob('lib/tasks/*.rake').each { |r| import r }
+
 def edit_config(name, value)
   config = File.read('_config.yml')
   regexp = Regexp.new('(^\s*' + name + '\s*:\s*)(\S+)(\s*)$')
