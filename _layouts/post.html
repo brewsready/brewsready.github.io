@@ -83,7 +83,25 @@ Description: Awesome dude, awesome life
 {% if site.share %}{% include share.html %}{% endif %}
         <div class="cf"></div>
         
-{% include signoff.html %} 
+            <div class="notepad-author-info">
+                <div class="row">
+                    <section class="notepad-post-author small-12 columns">
+                        
+                            <img src="{{site.url}}/images/{{ site.owner.avatar }}" class="notepad-post-author-avatar" alt="{{ page.author_name }}'s photo">
+                        
+                        
+                            <span class="author-label">Author</span>
+                            <h1>{{ page.author_name }}</h1>
+                        
+                        
+                            <p><a href="mailto:{{ page.author_email }}" class="author-website">{{ page.author_email }}</a></p>
+                        
+                        
+                            <p>{{ site.owner.description }}</p>
+                        
+                    </section>
+                </div>
+            </div>
         
         <div class="cf"></div>
         {% if site.disqus_shortname and page.comments == true %}
