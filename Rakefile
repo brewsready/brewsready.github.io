@@ -42,6 +42,10 @@ end
      post.puts "chart: "
      post.puts "comments: true"
      post.puts "featured: false"
+     post.puts "author_name: "
+     post.puts "author_email: "
+     post.puts "author_avatar: "
+     post.puts "author_description: "
      post.puts "---"
    end
   end
