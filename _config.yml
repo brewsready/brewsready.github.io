@@ -11,15 +11,15 @@ url:        	  http://brewsready.github.io
 
 # Owner/author information
 owner:
-  name:           Chris Barthol
+  name:           BrewsReady
   #avatar:         hmfaysal.jpg
   email:          chris.barthol@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Helping the Brewing Community
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        chrisbarthol
-  facebook:       chrisbarthol
-  github:         chrisbarthol     
+  twitter:        brewsready
+  facebook:       brewsready
+  github:         brewsready     
   #instagram:      hmfaysal
   # For Google Authorship https://plus.google.com/authorship
   #google_plus:    https://plus.google.com/u/0/102602916593522619858

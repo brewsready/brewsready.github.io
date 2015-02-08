@@ -4,6 +4,10 @@ title:  "Welcome to Jekyll!"
 date:   2015-02-07 11:08:55
 categories: jekyll update
 comments: true
+author_name: "Chris Barthol"
+author_email: "chris.barthol@gmail.com"
+author_avatar: waiting.gif
+author_description: Head Engineer
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
